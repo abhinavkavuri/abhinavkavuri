@@ -28,10 +28,6 @@
   </samp>
 </p>
 
-<div align="center">
-	<img src="https://giphy.com/embed/QWkuGmMgphvmE" >
-</div>
-
 
 <p align="center">
   <img align="center" width="40%" src="https://github.com/abhinavkavuri/abhinavkavuri/blob/main/static/dailup.gif?raw=true" alt="header"/>
