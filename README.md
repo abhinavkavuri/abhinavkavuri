@@ -1,11 +1,11 @@
 <p align="center">
   <samp>
     <h1 align="center">Hi 👋, I'm Abhinav kavuri</h1>
-<h3 align="center">Full-stack Web developer</h3>
+<h3 align="center">Software development Engineer II</h3>
 
 - 🔭 I’m currently working on [Project Hyper Z](https://github.com/abhinavkavuri/Project-Hyper-Z)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Rust & Post-Quantum Cryptography**
 
 - 💌 Reach me at **abhinavkavuri@gmail.com**
 
